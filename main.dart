@@ -8,7 +8,7 @@ void main() {
    print("Enter in Class");
   }
   else{
-    print("class se bahir hoga please");
+    print("please class se bahir hoga");
   }
 
 }
